@@ -1,0 +1,28 @@
+.about-section {
+    padding: 30px 20px;
+    background-color: #000;
+  }
+  
+  .about-section h2 {
+   text-align: center;
+   font-size:3rem;
+   font-weight: 600;
+   color: var(--primary-blue);
+  }
+  
+  .about-content{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+   }
+
+
+   
+  .about-text h3{
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    color: var(--primary-blue);
+    font-weight: 800;
+    margin-bottom: 2rem;
+  } 
