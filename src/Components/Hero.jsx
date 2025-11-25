@@ -54,7 +54,7 @@ const Hero = () => {
               <p>{slide.description}</p>
 
           <div className="hero-buttons">
-           <button className="hero-btn primary"><Link to="/about">Learn More <FaArrowRight/></Link></button>
+           <button className="hero-btn primary"><Link to="/about">More <FaArrowRight/></Link></button>
             <button className="hero-btn secondary"><Link to="/contacts">Contact Us <FaArrowRight/></Link></button>
             <button className="hero-btn enroll"><Link to="/admissions">Enroll Now <FaArrowRight /></Link></button>
           </div>
