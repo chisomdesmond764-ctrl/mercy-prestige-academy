@@ -13,6 +13,7 @@ const slides = [
     description: "Remoulding the crack in education.",
     image: schoolImg1,
   },
+  
   {
     id: 2,
     title: "Quality Education & Care",
